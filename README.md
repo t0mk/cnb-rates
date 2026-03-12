@@ -69,7 +69,13 @@ print("Available currencies:", cnb_rates.currencies())
 
 Available as `cnb_rates.USD`, `cnb_rates.EUR`, etc:
 
-AUD, BGN, BRL, CAD, CHF, CNY, DKK, EUR, GBP, HKD, HUF, IDR, ILS, INR, ISK, JPY, KRW, MXN, MYR, NOK, NZD, PHP, PLN, RON, SEK, SGD, THB, TRY, USD, XDR, ZAR
+ATS AUD BEF BGN BRL CAD CHF CNY CYP DEM DKK EEK ESP EUR FIM FRF GBP GRD HKD HRK
+HUF IDR IEP ILS INR ISK ITL JPY KRW LTL LUF LVL MTL MXN MYR NLG NOK NZD PHP PLN
+PTE ROL RON RUB SEK SGD SIT SKK THB TRL TRY USD XCU XDR XEU ZAR
+
+### Currency Ranges
+
+in [ranges.txt](ranges.txt)
 
 ### Date Formats
 
